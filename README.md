@@ -1,2 +1,7 @@
-# melody-housing
-Front-end учебный проект.
+# Учебный проект *Melody*
+## Проект выполнил: Максим Степуль
+
+### Технологии
+- html
+- css
+- javascript
