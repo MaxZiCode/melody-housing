@@ -79,7 +79,7 @@ body {
   opacity: 0;
   cursor: pointer;
 }
-.home-image path:hover {
+.home-image .current-floor {
   opacity: 1;
 }
 .counter-group {
